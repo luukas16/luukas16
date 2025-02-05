@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luukas16" alt="luukas16" /></a> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning about **Data Science** and some cool Python libraries like Numpy, and Pandas!
 
 - 📫 How to reach me **suomiluukas@gmail.com**
 
